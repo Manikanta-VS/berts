@@ -1,2 +1,0 @@
-# berts
-Bert Model
